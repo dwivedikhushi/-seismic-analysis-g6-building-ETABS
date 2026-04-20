@@ -17,13 +17,13 @@ The objective was to ensure structural safety, stability, and code compliance un
 ## Model Views
 
 ### Plan View
-![Plan](plan-view.png)
+![Plan View](Plan_View.png)
 ### 3D Model
-![3D](3d-model.png)
+![3D Model](3d_Model.png)
 ### Reinforcement View
-![Reinforcement](reinforcement.png)
+![Reinforcement View](Reinforcement_View.png)
 ### Design Status
-![Design](design-pass.png)
+![Design Passed](Design_Check_Passed.png)
 
 # Tools Used
 - ETABS Ultimate v23

@@ -19,7 +19,7 @@ The objective was to ensure structural safety, stability, and code compliance un
 ### Plan View
 ![Plan View](Plan_View.png)
 ### 3D Model
-![3D Model](3D_Model.png)
+![3D Model](Model_3D.png)
 ### Reinforcement View
 ![Reinforcement View](Reinforcement_View.png)
 ### Design Status
